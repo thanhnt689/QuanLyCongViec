@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuanLyCongViec</string>
+    <string name="description">
+        \n
+        <b>Description: </b>
+        \n
+        \n Có phải bạn đang ngập đầu trong công việc và đã có lúc gặp phải rắc rối khi quên mất một công việc nào đó? Bạn đang gặp khó khăn để sắp xếp một thời gian hợp lí cho cả  núi công việc đó? Quả thực sẽ có lúc chúng ta phải hoàn thành rất nhiều công việc trong một khoảng thời gian nào đó và buộc phải ghi nhớ nhiều thông tin. Ứng dụng này sẽ hỗ trợ bạn hoàn thành tốt các công việc kịp thời và ghi nhớ nhiều thông tin, dữ liệu quan trọng.
+        \n
+        \n
+        <b>Points to be noted:</b>
+        \n
+        \n - Thân thiện với người dùng
+        \n - Có tính năng ghi chú mạnh mẽ
+        \n - Miễn phí
+        \n - Tổ chức tốt, đơn giản, dễ sử dụng
+        \n - Ghi chú được sắp xếp hợp lý
+        \n - Có thể chia sẻ thông tin ghi nhớ
+        \n
+    </string>
+
+    <string name="email_us">
+        Feel free to submit your queries. We are hero to help you out. Just send an email to
+        \n
+        <b>thanhnt.B17AT168@stu.ptit.edu.vn</b>
+    </string>
+    <string name="rate">
+        If you like this application or if this app has provided you ease then provide your review and rating on play store
+    </string>
+    <string name="visit">
+        If you want to provide meaningful suggestions regarding the features of this app then you know what you have to do. Just send an email.Your positive review and suggestions will help us in revamping ths app in the future.
+
+    </string>
+</resources>
